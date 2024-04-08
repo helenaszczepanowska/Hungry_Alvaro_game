@@ -1,4 +1,6 @@
 import pygame
+
+
 class Button():
     def __init__(self, x, y, image, scale):
         width, height = image.get_size()
