@@ -1,6 +1,6 @@
 # Hungry Alvaro
 
-![baner.png](baner.png)
+![baner.png](baner.jpg)
 
 ## Description
 Hungry Alvaro is a dynamic and entertaining game developed in Python using the Pygame library. Step into the world of Alvaro and create delicious pizzas according to his orders! The game features three exciting modes, each with unique challenges that test your speed and accuracy.
